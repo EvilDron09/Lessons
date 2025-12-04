@@ -4,9 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="e8bfdbda-1875-4c5e-8509-e2e16d1fc06e" name="Changes" comment="Додано фаїл workspace.xml">
       <change afterPath="$PROJECT_DIR$/text.txt" afterDir="false" />
     </list>
+=======
+    <list default="true" id="e8bfdbda-1875-4c5e-8509-e2e16d1fc06e" name="Changes" comment="- create branch &quot;fobar&quot;&#10;- add ad.txt" />
+>>>>>>> fobar
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +24,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="6d199bc8d3799ff7e34a83397d4d7f90086dd05e" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
@@ -38,7 +47,7 @@
     "DefaultHtmlFileTemplate": "HTML File",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "fobar",
     "junie.onboarding.icon.badge.shown": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -92,6 +101,7 @@
       <option name="project" value="LOCAL" />
       <updated>1764872173076</updated>
     </task>
+<<<<<<< HEAD
     <task id="LOCAL-00003" summary="Додано фаїл workspace.xml">
       <option name="closed" value="true" />
       <created>1764872533967</created>
@@ -101,6 +111,25 @@
       <updated>1764872533967</updated>
     </task>
     <option name="localTasksCounter" value="4" />
+=======
+    <task id="LOCAL-00003" summary="- create branch &quot;newbranch&quot;&#10;- add xxx.txt">
+      <option name="closed" value="true" />
+      <created>1764874795852</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1764874795852</updated>
+    </task>
+    <task id="LOCAL-00004" summary="- create branch &quot;fobar&quot;&#10;- add ad.txt">
+      <option name="closed" value="true" />
+      <created>1764875422420</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1764875422420</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+>>>>>>> fobar
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,7 +149,13 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Початковий коміт" />
     <MESSAGE value="Створено файл File.txt та змінено" />
+<<<<<<< HEAD
     <MESSAGE value="Додано фаїл workspace.xml" />
     <option name="LAST_COMMIT_MESSAGE" value="Додано фаїл workspace.xml" />
+=======
+    <MESSAGE value="- create branch &quot;newbranch&quot;&#10;- add xxx.txt" />
+    <MESSAGE value="- create branch &quot;fobar&quot;&#10;- add ad.txt" />
+    <option name="LAST_COMMIT_MESSAGE" value="- create branch &quot;fobar&quot;&#10;- add ad.txt" />
+>>>>>>> fobar
   </component>
 </project>
